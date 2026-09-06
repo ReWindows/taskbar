@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "targets": [
+    {
+      "target": "taskbar",
+      "file": "taskbar.dll",
+      "index": "taskbar/index.json",
+      "latest": "2941576477-6C3AA9496CD5913CBF5AE8A6F3B506AA-1",
+      "build_count": 1
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "target": "taskbar.dll",
+  "latest": "2941576477-6C3AA9496CD5913CBF5AE8A6F3B506AA-1",
+  "builds": [
+    {
+      "key": "2941576477-6C3AA9496CD5913CBF5AE8A6F3B506AA-1",
+      "timestamp": "2941576477",
+      "pdb_guid": "6C3AA9496CD5913CBF5AE8A6F3B506AA",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2941576477-6C3AA9496CD5913CBF5AE8A6F3B506AA-1/ir.json",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ]
+}
